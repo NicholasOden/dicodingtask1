@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">CariKos2</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kos_name">Kos Name</string>
+    <string name="kos_location">Kos Location</string>
+    <string name="kos_distance">Kos Distance</string>
+
+    // Ini cuman buat ngetes adapternya bs jln ato ga
+
+    // KOS TERAKHIR DIEDIT OLEH PEMILIK
+    <integer-array name="data_photo">
+        <item>@drawable/kos_walo</item>
+        <item>@drawable/kos_masiu</item>
+        <item>@drawable/kos_suryi</item>
+        <item>@drawable/kos_b_sum</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>Kos Masiu</item>
+        <item>Kos Walo</item>
+        <item>Kos Suryi</item>
+        <item>Kos B. Sum</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Jl. Baliha 14, Sby</item>
+        <item>Jl. Baliha 16, Sby</item>
+        <item>Jl. Surya 27A, Sby</item>
+        <item>Jl. Gayitri 43, Sby</item>
+    </string-array>
+
+    <string-array name="data_distance">
+        <item>Jarak: 2 km</item>
+        <item>Jarak: 2 km</item>
+        <item>Jarak: 3 km</item>
+        <item>Jarak: 5 km</item>
+    </string-array>
+
+    // KOS PUTRA
+    <integer-array name="data_photo_putra">
+        <item>@drawable/kos_putra1</item>
+        <item>@drawable/kos_putra2</item>
+    </integer-array>
+
+    <string-array name="data_name_putra">
+        <item>Kos Bubo</item>
+        <item>Kos Welo</item>
+    </string-array>
+
+    <string-array name="data_location_putra">
+        <item>Jl. Kutai 34, Sby</item>
+        <item>Jl. Baliha 16, Sby</item>
+    </string-array>
+
+    <string-array name="data_distance_putra">
+        <item>Jarak: 2 km</item>
+        <item>Jarak: 7 km</item>
+    </string-array>
+
+    // KOS PUTRI
+    <integer-array name="data_photo_putri">
+        <item>@drawable/kos_putri1</item>
+        <item>@drawable/kos_putri2</item>
+    </integer-array>
+
+    <string-array name="data_name_putri">
+        <item>Kos Macoz</item>
+        <item>Kos B. Sum</item>
+    </string-array>
+
+    <string-array name="data_location_putri">
+        <item>Jl. Zarunai 39, Sby</item>
+        <item>Jl. Gayitri 43, Sby</item>
+    </string-array>
+
+    <string-array name="data_distance_putri">
+        <item>Jarak: 5 km</item>
+        <item>Jarak: 10 km</item>
+    </string-array>
+
+    // KOS RUMAH TANGGA
+    <integer-array name="data_photo_rt">
+        <item>@drawable/kos_rt1</item>
+        <item>@drawable/kos_rt2</item>
+    </integer-array>
+
+    <string-array name="data_name_rt">
+        <item>Kos Welo</item>
+        <item>Kos Masiu</item>
+    </string-array>
+
+    <string-array name="data_location_rt">
+        <item>Jl. Baliha 16, Sby</item>
+        <item>Jl. Kutai 34, Sby</item>
+    </string-array>
+
+    <string-array name="data_distance_rt">
+        <item>Jarak: 2 km</item>
+        <item>Jarak: 7 km</item>
+    </string-array>
+</resources>
