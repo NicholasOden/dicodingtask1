@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "525933096669",
+    "project_id": "carikos-af96b",
+    "storage_bucket": "carikos-af96b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525933096669:android:a17b2dd07bd1c80e207534",
+        "android_client_info": {
+          "package_name": "com.example.carikos2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525933096669-mg7ij0admk3nl1onqadakvt95msvlnef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carikos2",
+            "certificate_hash": "1de7dfea3cb7cbe41c6dd7bbe713e9219779dbc2"
+          }
+        },
+        {
+          "client_id": "525933096669-11m9uip4139119kl540hbq8clfr2cd8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0JwR_axDBDrihBvMEFuQ0A85IZW9oN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525933096669-11m9uip4139119kl540hbq8clfr2cd8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525933096669:android:094aae5a8bb7f675207534",
+        "android_client_info": {
+          "package_name": "com.example.carikoswm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525933096669-a14rg41f1rn3qlt3surckpfidcnrth66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carikoswm",
+            "certificate_hash": "e3a726a6bda3d13e43611ee22878186a45534832"
+          }
+        },
+        {
+          "client_id": "525933096669-rbd9f2p4vc7rpinvfq5vnhfsbqt7thcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carikoswm",
+            "certificate_hash": "1de7dfea3cb7cbe41c6dd7bbe713e9219779dbc2"
+          }
+        },
+        {
+          "client_id": "525933096669-11m9uip4139119kl540hbq8clfr2cd8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0JwR_axDBDrihBvMEFuQ0A85IZW9oN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525933096669-11m9uip4139119kl540hbq8clfr2cd8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
